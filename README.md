@@ -1,7 +1,9 @@
 ## includes some test cases for CI/CD pipeline
 
-### connected with webhook to understand triggers
+### connected with webhook to understand triggers, which triggers Jenkins
 
+- used ngrok for exposing localhost here
+- to work with webhooks
 
 
 
